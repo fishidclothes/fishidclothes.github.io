@@ -124,29 +124,7 @@ body {
 /* Footer End */
 
 @media screen and (max-width: 1080px) {
-    .kiri{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
     
-    .tengah{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
-    
-    .kanan{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
     .container-box {
         width: auto;
         height: auto;
@@ -161,29 +139,7 @@ body {
 }
 
 @media screen and (max-width: 780px) {
-    .kiri{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
-    
-    .tengah{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
-    
-    .kanan{
-        clear	: both;
-        padding	: 1% 4%;
-        width: auto;
-        float	: none;
-        background	: white;
-    }
+   
     .container-box {
         width: auto;
         height: auto;
