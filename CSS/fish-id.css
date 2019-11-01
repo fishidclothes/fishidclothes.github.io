@@ -74,8 +74,9 @@ body {
     margin: 30px;
     padding: 20px 20px 20px 20px;
     width: auto;
-    background-color: white;
+    background-color: white;    
 }
+ 
 .about {
     background-image: url("../Images/Hopeless\ wallpaper\ \(star\).png");
     background-position: center;
@@ -126,7 +127,8 @@ body {
 }
 /* Content End */
 
-
+    
+    
 /* Contact */
 .contact {
     text-align: center;
@@ -199,6 +201,12 @@ body {
         width: auto;
         float: none;
     }
+    .card {
+        height: 100%;
+        float: none;
+        text-align: center;
+    }
+    
 }
 
 @media screen and (max-width: 780px) {
@@ -228,6 +236,10 @@ body {
         font-size: 15px;
         width: auto;
         float: none;
+    }
+    .card {
+        height: 100%;
+        text-align: center;
     }
     
 }
@@ -295,6 +307,10 @@ body {
     }
     .copyright {
         font-size: 14px;
+    }
+    .card {
+        height: 100%;
+        text-align: center;
     }
 }
 
