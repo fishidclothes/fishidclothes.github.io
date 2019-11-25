@@ -46,7 +46,7 @@ body {
 /* Content */
 /* Spotlight */
 .spotlight {
-    background-image: url("../Images/Hopeless\ wallpaper\ \(star\).png"); 
+    background-image: url("../Images/bg\ 1\ fid.png"); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
@@ -78,7 +78,7 @@ body {
 }
  
 .about {
-    background-image: url("../Images/Hopeless\ wallpaper\ \(star\).png");
+    background-image: url("../Images/bg\ 2\ fid.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
